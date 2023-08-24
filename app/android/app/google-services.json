@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "432637378240",
+    "project_id": "acme-36346",
+    "storage_bucket": "acme-36346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432637378240:android:a6c65a4fbde0ae8aa5f725",
+        "android_client_info": {
+          "package_name": "com.deploid.app.caster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfo7eQEac4aP8Nrl12eq_v69yDzfTqHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432637378240-at5otvfrqp27sfffil3klhekg220hn5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deploid.app.caster"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432637378240:android:8bd2fc83a2bdf2e9a5f725",
+        "android_client_info": {
+          "package_name": "com.deploid.caster.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfo7eQEac4aP8Nrl12eq_v69yDzfTqHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432637378240-at5otvfrqp27sfffil3klhekg220hn5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deploid.app.caster"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432637378240:android:7196f349e3a1bde2a5f725",
+        "android_client_info": {
+          "package_name": "com.deploid.hausmeister.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfo7eQEac4aP8Nrl12eq_v69yDzfTqHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432637378240-e7thhpq58m35mtm4m2clrfrqaltfb2jg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432637378240-at5otvfrqp27sfffil3klhekg220hn5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deploid.app.caster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
